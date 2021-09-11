@@ -1,6 +1,4 @@
-<!-- <img align="right" src="https://github.com/JousenZhou/JousenZhou/blob/main/self.png" alt="" style="width:400px"/>
-
-<iframe src="https://www.qq.com" height="300" width="500"></iframe> -->
+<img align="right" src="https://github.com/JousenZhou/JousenZhou/blob/main/self.png" alt="" style="width:400px"/>
 
 ### ♛ About me
 
@@ -23,3 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
