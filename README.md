@@ -1,4 +1,11 @@
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=JousenZhou&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900"/>
+
+### 🤔 About me
+
+
+- 🔭 You would call me ✨ Jousen ✨ or ✨ Huier ✨.
+- 💬 I’m currently working on (blog | ThreeJs) development .
+- ✏️ I love the Game of MapleStory .
 
 <!--
 **JousenZhou/JousenZhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
