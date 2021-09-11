@@ -1,6 +1,6 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=JousenZhou&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900"/>
+<img align="right" src="./self.png" alt=""/>
 
-### 🤔 About me
+### ♛ About me
 
 
 - 🔭 You would call me ✨ Jousen ✨ or ✨ Huier ✨.
