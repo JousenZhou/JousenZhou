@@ -1,4 +1,4 @@
-<img align="right" src="./self.png" alt=""/>
+<img align="right" src="https://github.com/JousenZhou/JousenZhou/blob/main/self.png" alt="" style="width:400px"/>
 
 ### ♛ About me
 
