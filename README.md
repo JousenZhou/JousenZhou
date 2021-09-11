@@ -1,9 +1,10 @@
-<img align="right" src="https://github.com/JousenZhou/JousenZhou/blob/main/self.png" alt="" style="width:200px"/>
+<img align="right" src="https://github.com/JousenZhou/JousenZhou/blob/main/1.png" alt="" />
+<img align="top" src="https://github.com/JousenZhou/JousenZhou/blob/main/2.png" alt="" />
 
 ### ♛ About me
 
 
-- 🔭 You would call me ✨ Jousen ✨ or ✨ Huier ✨.
+- 🔭 You would call me ✨ Jousen ✨.
 - 💬 I’m currently working on (blog | ThreeJs) development .
 - ✏️ I love the Game of MapleStory .
 
