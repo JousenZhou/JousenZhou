@@ -1,12 +1,15 @@
 <img align="right" src="https://github.com/JousenZhou/JousenZhou/blob/main/1.png" alt="" />
-<img align="top" src="https://github.com/JousenZhou/JousenZhou/blob/main/2.png" alt="" />
-
+<div  align="left">
+<img  src="https://github.com/JousenZhou/JousenZhou/blob/main/2.png" alt=""/>
 ### ♛ About me
 
 
 - 🔭 You would call me ✨ Jousen ✨.
 - 💬 I’m currently working on (blog | ThreeJs) development .
-- ✏️ I love the Game of MapleStory .
+- ✏️ I love the Game of 🍁MapleStory🍁 .
+</div>
+
+
 
 <!--
 **JousenZhou/JousenZhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
