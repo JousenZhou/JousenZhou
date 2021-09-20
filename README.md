@@ -1,6 +1,4 @@
 <img align="right" src="https://github.com/JousenZhou/JousenZhou/blob/main/1.png" alt="" />
-<div  align="left">
-<img  src="https://github.com/JousenZhou/JousenZhou/blob/main/2.png" alt=""/>
 ### ♛ About me
 
 
@@ -26,4 +24,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img align="left" src="https://github.com/JousenZhou/JousenZhou/blob/main/2.png" alt=""/>
 
