@@ -1,12 +1,12 @@
-<!-- <img align="right" src="https://github.com/JousenZhou/JousenZhou/blob/main/1.png" alt="" /> -->
-
-<div  align="left">
+<img align="right" src="https://github.com/JousenZhou/JousenZhou/blob/main/1.png" alt="" />
+<!-- <img  align="right" ve src="https://api.mxd4.com:8085/wz/code/getImage?version=183&type=mob&id=2477" alt=""/> -->
+<!-- <img  align="left" src="https://github.com/JousenZhou/JousenZhou/blob/main/2.png" alt=""/>
+ -->
 ### ♛ About me
 
 - 🔭 You would call me ✨ Jousen ✨.
 - 💬 I’m currently working on ThreeJs development .
 - ✏️ I love the Game of 🍁MapleStory🍁 .
-</span>
 
 
 
@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="right">
+<!--  <img align="right" src="https://api.mxd4.com:8085/wz/code/getImage?version=183&type=mob&id=2477" alt=""/> -->
+<!-- <div align="right" style="display: inline-block">
   <img  src="https://github.com/JousenZhou/JousenZhou/blob/main/2.png" alt=""/>
   <img  src="https://api.mxd4.com:8085/wz/code/getImage?version=183&type=mob&id=2477" alt=""/>
-</span>
+</div> -->
