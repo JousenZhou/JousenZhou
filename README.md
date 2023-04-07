@@ -4,7 +4,7 @@
  -->
 ### ♛ About me
 
-- 🔭 You would call me ✨ Jousen ✨.
+- 🔭 You would call me ✨ Jousen/JouJo ✨.
 - 💬 I’m currently working on ThreeJs development .
 - ✏️ I love the Game of 🍁MapleStory🍁 .
 
